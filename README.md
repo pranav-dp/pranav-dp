@@ -1,57 +1,40 @@
-# 👾 Pranav's GitHub Portfolio
+# Pranav | Full Stack Developer
 
-Welcome to my GitHub! I’m Pranav, a developer from Chennai, currently at SSN College Of Engineering. Here you’ll find my coolest projects, code experiments, and pixel-powered creativity.  
-<br>
+<div align="center">
 
-<p align="center">
-  <img src="https://i.imgur.com/8xY6h1Z.gif" alt="Pixel art computer" width="180">
-  <img src="https://i.imgur.com/j8fQwqU.gif" alt="Pixel art rocket" width="180">
-  <img src="https://i.imgur.com/0kT2i2O.gif" alt="Pixel art robot" width="180">
-</p>
+<!-- Animated Banner -->
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm4wNzRuMHdnNzF6dzNhZGh5eGEwZmcybm40enIzNjV2dXVydDhvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" width="600" alt="Animated Banner">
 
----
-
-## 🚀 Featured Projects
-
-<!-- Add your top projects below! You can update descriptions as needed. -->
-
-### [pranav-dp/pranav-dp](https://github.com/pranav-dp/pranav-dp)
-> hello
-
-<!-- Add more projects as you like! Example: -->
-<!--
-### [Project Name](https://github.com/pranav-dp/project-repo)
-> Short project description goes here.
--->
+<!-- Tech Stack Icons -->
+<div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+   
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+### 👋 About Me
 
-- 🌐 **Location:** Chennai, India
-- 🎓 **College:** SSN College Of Engineering
-- 💬 **Bio:** nah
+I'm Pranav, a passionate Full Stack Developer with experience building scalable web applications using modern technologies like React, Python, Node.js, and more. I love solving problems,and learning new things every day.
 
 ---
 
-## 🌈 Pixel Art Vibes
+### 🚀 Check Out My Projects
 
-<p align="center">
-  <img src="https://i.imgur.com/1Fq9ZkD.gif" alt="Pixel art city" width="220">
-  <img src="https://i.imgur.com/YyYxXnU.gif" alt="Pixel art dancing" width="120">
-  <img src="https://i.imgur.com/yU0rV1A.gif" alt="Pixel art cat" width="120">
-</p>
+Explore some of my featured projects:
 
----
+- **[UpskillPlus](https://github.com/pranav-dp/upskill):** Advanced resume analyser, gives personalized career recommendations.
+- **[PowerEngineering](https://github.com/pranav-dp/PowerEngineering):** Freelance Website built for Power Engineering Ltd. Bangalore.
+- **[JarvisAI](https://github.com/pranav-dp/JarvisAI):** Jarvis AI is a proactive, Telegram-based AI companion that helps users stay productive, healthy, and emotionally grounded. Unlike traditional chatbots, Jarvis initiates conversations, sends personalized nudges, and understands your life context. Think of it as your pocket-sized life coach — reminding you to eat, hit the gym, reflect, and grow.
+- **[SecretSanta](https://github.com/pranav-dp/secretSanta):**Secret Santa Game (Digital Edition)
 
-## 📫 Connect
+<div align="center">
+    <a href="https://github.com/pranav-dp" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-Check%20out%20my%20repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo Button">
+    </a>
+</div>
 
-- [GitHub Profile](https://github.com/pranav-dp)
-
----
-
-<p align="center">
-  <img src="https://i.imgur.com/3B9Lw8a.gif" alt="Pixel art waving" width="120">
-</p>
-
-> Powered by code, coffee, and pixel dreams.
+</div>
