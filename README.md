@@ -25,7 +25,7 @@ I'm Pranav, a passionate Full Stack Developer with experience building scalable 
 ### 🚀 Check Out My Projects
 
 Explore some of my featured projects:
-
+- **[Bolt](https://github.com/pranav-dp/fanpitfinal):** A Multiagent Coincerge for Searching and Booking events from events.fanpit.live
 - **[UpskillPlus](https://github.com/pranav-dp/upskill):** Advanced resume analyser, gives personalized career recommendations.
 - **[PowerEngineering](https://github.com/pranav-dp/PowerEngineering):** Freelance Website built for Power Engineering Ltd. Bangalore.
 - **[JarvisAI](https://github.com/pranav-dp/JarvisAI):** Jarvis AI is a proactive, Telegram-based AI companion that helps users stay productive, healthy, and emotionally grounded. Unlike traditional chatbots, Jarvis initiates conversations, sends personalized nudges, and understands your life context. Think of it as your pocket-sized life coach — reminding you to eat, hit the gym, reflect, and grow.
