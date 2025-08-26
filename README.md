@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm4wNzRuMHdnNzF6dzNhZGh5eGEwZmcybm40enIzNjV2dXVydDhvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" width="600" alt="Animated Banner">
+<img src="pranav.gif" width="600" alt="Animated Banner">
 
 <!-- Tech Stack Icons -->
 <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
