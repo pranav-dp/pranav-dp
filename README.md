@@ -11,7 +11,7 @@ I'm Pranav, a passionate Full-Stack Developer focused on building **AI Multi-Age
 
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org) 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
@@ -39,8 +39,8 @@ I'm Pranav, a passionate Full-Stack Developer focused on building **AI Multi-Age
  
 
 
-## 🚀 Featured Projects
-<div align="center">
+## Featured Projects
+
 - **[Bolt](https://github.com/pranav-dp/fanpitfinal)** – Multi-agent AI concierge for event search & booking with LangGraph and LLMs.  
 - **[UpskillPlus](https://github.com/pranav-dp/upskill)** – AI-powered platform for smart resume analysis and career recommendations.  
 - **[JarvisAI](https://github.com/pranav-dp/JarvisAI)** – Proactive AI life assistant on Telegram that sends personalized nudges and tracks context.  
@@ -49,10 +49,7 @@ I'm Pranav, a passionate Full-Stack Developer focused on building **AI Multi-Age
 - **[PowerEngineering](https://github.com/pranav-dp/PowerEngineering)** – Responsive, SEO-optimized website built for a Bangalore-based MSME.  
 - **[SecretSanta](https://github.com/pranav-dp/secretSanta)** – Fun digital edition of the classic Secret Santa game.  
 - **[Red Weevil Detection](https://github.com/pranav-dp/reddd)** – Flutter app for detecting red weevils as part of SSN IFP project.  
-</div>
----
 
-## 📫 Connect with Me
 
 <p align="center">
 <a href="https://github.com/pranav-dp" target="_blank">
@@ -60,7 +57,7 @@ I'm Pranav, a passionate Full-Stack Developer focused on building **AI Multi-Age
 </a>
 </p>
 
----
+
 
 <div align="center">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRzNmdjNTI0eDlkMzlrN214eDF3anhzMTJkZWJsY24xNG5vbWtjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0mSbmyxpgBhNfliH1p/giphy.gif" width="200" alt="Animated Banner">
