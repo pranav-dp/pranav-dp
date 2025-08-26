@@ -36,7 +36,7 @@ Explore some of my featured projects:
         <img src="https://img.shields.io/badge/GitHub-Check%20out%20my%20repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo Button">
     </a>
 </div>
-Signing off, Pranav,
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRzNmdjNTI0eDlkMzlrN214eDF3anhzMTJkZWJsY24xNG5vbWtjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0mSbmyxpgBhNfliH1p/giphy.gif" width="600" alt="Animated Banner">
-Signing off, pranav!
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRzNmdjNTI0eDlkMzlrN214eDF3anhzMTJkZWJsY24xNG5vbWtjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0mSbmyxpgBhNfliH1p/giphy.gif" width="40" alt="Animated Banner">
+<div>Signing off, pranav! </div>
 </div>
