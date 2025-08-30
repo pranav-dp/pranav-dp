@@ -62,4 +62,8 @@ I'm Pranav, a passionate Full-Stack Developer focused on building **AI Multi-Age
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRzNmdjNTI0eDlkMzlrN214eDF3anhzMTJkZWJsY24xNG5vbWtjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0mSbmyxpgBhNfliH1p/giphy.gif" width="200" alt="Animated Banner">
 <br>
 Signing off, Pranav!  
+ <div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=pranavvd&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/pranavvd?style=social)
+  </div>
 </div>
