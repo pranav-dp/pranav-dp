@@ -83,8 +83,4 @@ A **campus food-delivery app** ("a college DoorDash") that actually takes orders
 
 **Thanks for stopping by — most of my stuff is open source, so dig in.**
 
-<a href="https://pranavd.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Website-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-</a>
-
 </div>
