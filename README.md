@@ -11,12 +11,6 @@
 <br>
 <br>
 
-<a href="https://pranavd.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Website-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-</a>
-<a href="https://github.com/pranav-dp?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-Open%20Source-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Projects">
-</a>
 
 </div>
 
@@ -26,9 +20,7 @@
 
 - Final-year Computer Science student based in Chennai, India
 - I build things I'd actually use — a menu-bar timer, a prompt-enhancer extension, a campus food-delivery app
-- Currently going deeper into **Go** and developer tooling / CLIs
-- Most of my work is open source — pull it apart, open an issue, send a PR
-- More at **[pranavd.vercel.app](https://pranavd.vercel.app)**
+- Most of my work is open source
 
 ---
 
