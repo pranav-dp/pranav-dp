@@ -69,7 +69,7 @@ A **campus food-delivery app** ("a college DoorDash") that actually takes orders
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=pranav-dp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Pranav's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-dp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+
 
 </div>
 
